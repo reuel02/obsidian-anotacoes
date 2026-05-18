@@ -1,3 +1,9 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "omnisearch",
+  "copilot",
+  "mermaid-tools"
 ]
