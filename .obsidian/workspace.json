@@ -11,10 +11,14 @@
             "id": "cd864d0a7c9f57db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Variáveis de Ambiente.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Variáveis de Ambiente"
             }
           }
         ]
@@ -174,8 +178,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -183,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
