@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82cd55ed2a473a85",
+        "id": "2a4be25061e531ef",
         "type": "tabs",
         "children": [
           {
-            "id": "cd864d0a7c9f57db",
+            "id": "74381dae9d7a641f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arquitetura e Primeiros Passos"
+              "title": "Nova aba"
             }
           }
         ]
@@ -208,9 +204,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cd864d0a7c9f57db",
+  "active": "74381dae9d7a641f",
   "lastOpenFiles": [
-    "Projetos/CoreNode/Integração do Linear com Github.md",
+    "Projetos/Boas Práticas/Workflow com branchs para cada tarefa.md",
+    "Projetos/Boas Práticas/Integração do Linear com Github.md",
+    "Projetos/Boas Práticas",
     "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
     "Linux/Variáveis de Ambiente.md",
     "Linux/Resolução de Problemas de Rede.md",
@@ -238,7 +236,6 @@
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Projetos/CoreNode",
