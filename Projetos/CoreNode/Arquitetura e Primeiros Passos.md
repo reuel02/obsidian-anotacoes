@@ -27,8 +27,6 @@ erDiagram
     TENANTS ||--o{ USERS : "possui"
 ```
 
-
-
 Arquitetura de pastas:
 
 ```

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Variáveis de Ambiente.md",
+                "file": "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variáveis de Ambiente"
+              "title": "Arquitetura e Primeiros Passos"
             }
           }
         ]
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +210,11 @@
   },
   "active": "cd864d0a7c9f57db",
   "lastOpenFiles": [
+    "Projetos/CoreNode/Integração do Linear com Github.md",
+    "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
+    "Linux/Variáveis de Ambiente.md",
     "Linux/Resolução de Problemas de Rede.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "Linux/Variáveis de Ambiente.md",
     "Linux/Usuários e Grupos.md",
     "Linux/Resumo.md",
     "Linux/Redirecionamento.md",
@@ -229,8 +232,6 @@
     "Conhecimentos Gerais/Como exercitar a resolução de problemas.md",
     "Linux",
     "Nova pasta",
-    "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
-    "Projetos/CoreNode/Integração do Linear com Github.md",
     "copilot/copilot-conversations/Diagramas_de_Banco_no_Obsidian@20260517_232518.md",
     "copilot/copilot-conversations/Diagramas_Mermaid_no_Obsidian@20260517_232518.md",
     "copilot/copilot-conversations",
