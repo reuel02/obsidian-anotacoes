@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
+                "file": "TypeScript/Padrão Repository (Repository Pattern).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitetura e Primeiros Passos"
+              "title": "Padrão Repository (Repository Pattern)"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "cd864d0a7c9f57db",
   "lastOpenFiles": [
+    "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
     "copilot/copilot-conversations/Formatação_de_nota@20260518_153957.md",
     "TypeScript/Prisma/Configuração Inicial Prisma.md",
     "TypeScript/Prisma",
@@ -241,7 +242,6 @@
     "Conhecimentos Gerais/Como exercitar a resolução de problemas.md",
     "Linux",
     "Nova pasta",
-    "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
