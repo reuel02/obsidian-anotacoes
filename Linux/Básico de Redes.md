@@ -49,15 +49,15 @@ Esse modelo divide o funcionamento das redes em **7 Camadas**, operando como uma
 ### 🥞 As 7 Camadas (A Pilha de Panquecas)
 Cada pacote de dados atravessa essa pilha. Memorizar a lógica por trás de algumas dessas camadas salva a sua pele na hora de corrigir *bugs*.
 
-| Camada | Nome | O que acontece nela? (De forma muito simples) |
-| :---: | :--- | :--- |
-| **7** | **Aplicação** | O programa que você vê na tela (Ex: Navegador, WhatsApp, API Rest). |
-| **6** | **Apresentação** | A formatação e criptografia dos dados (Ex: certificado HTTPS). |
-| **5** | **Sessão** | Inicia a chamada/sessão de comunicação oficial com a máquina de destino. |
-| **4** | **Transporte** | Decide a regra de entrega. (Ex: "Se perder o pacote, mando de novo?" - Protocolo TCP). |
-| **3** | **Rede** | O "GPS" da internet. É aqui que moram os **Roteadores** e os eternos **Endereços IP**. |
-| **2** | **Enlace** | A organização e entrega local usando os Endereços MAC (Endereço físico de fábrica das placas). |
-| **1** | **Física** | O mundo real. O dado vira pulsos de energia no cabo Ethernet, rádio no Wi-Fi, ou luz em Fibra Óptica! |
+| Camada | Nome             | O que acontece nela? (De forma muito simples)                                                         |
+| :----: | :--------------- | :---------------------------------------------------------------------------------------------------- |
+| **7**  | **Aplicação**    | O programa que você vê na tela (Ex: Navegador, WhatsApp, API Rest).                                   |
+| **6**  | **Apresentação** | A formatação e criptografia dos dados (Ex: certificado HTTPS).                                        |
+| **5**  | **Sessão**       | Inicia a chamada/sessão de comunicação oficial com a máquina de destino.                              |
+| **4**  | **Transporte**   | Decide a regra de entrega. (Ex: "Se perder o pacote, mando de novo?" - Protocolo TCP).                |
+| **3**  | **Rede**         | O "GPS" da internet. É aqui que moram os **Roteadores** e os eternos **Endereços IP**.                |
+| **2**  | **Enlace**       | A organização e entrega local usando os Endereços MAC (Endereço físico de fábrica das placas).        |
+| **1**  | **Física**       | O mundo real. O dado vira pulsos de energia no cabo Ethernet, rádio no Wi-Fi, ou luz em Fibra Óptica! |
 
 > **⚠️ A Vida Real vs Teoria (Por que DevOps falam em camadas?)**
 > O modelo OSI é majoritariamente **teórico**. O mundo real da nossa internet opera usando uma pilha de comunicação menor chamada **TCP/IP** (que tem apenas 4 camadas práticas). 
