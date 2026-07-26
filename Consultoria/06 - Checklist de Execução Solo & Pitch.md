@@ -18,14 +18,16 @@ data: 2026-07-25
 ## 📋 1. Checklist de Execução Solo (Passo a Passo)
 
 ### 💻 A. Desenvolvimento do MVP ("Sistema Coringa")
-- [ ] Montar a aplicação base em React/TypeScript + Node/Python + Supabase.
-- [ ] Implementar fluxo de Cadastro + Estoque + Botão de Enviar Pedido formatado para WhatsApp.
-- [ ] Testar e garantir funcionamento perfeito na tela do celular.
+- [x] Montar a aplicação base em React/TypeScript + Node/Python + Supabase.
+- [x] Implementar fluxo de Cadastro + Estoque + Botão de Enviar Pedido formatado para WhatsApp.
+- [x] Testar e garantir funcionamento perfeito na tela do celular.
 
 ### 🏷️ B. Nomenclatura e Identidade
-- [ ] Listar 3 a 5 opções de nomes profissionais (Exemplos: *[SeuNome] Tech Consulting*, *[Nome] Sistemas*, *Software Studio*, etc.).
-- [ ] Checar disponibilidade do usuário `@nomedaconsultoria` no Instagram.
-- [ ] Checar disponibilidade do domínio `.com.br` no [Registro.br](https://registro.br).
+- [x] Listar 3 a 5 opções de nomes profissionais (Exemplos: *[SeuNome] Tech Consulting*, *[Nome] Sistemas*, *Software Studio*, etc.).
+- [x] Checar disponibilidade do usuário `@nomedaconsultoria` no Instagram.
+- [x] Checar disponibilidade do domínio `.com.br` no [Registro.br](https://registro.br).
+
+KARIS
 
 ### 🔍 C. Pesquisa de Mercado (Santos e Região)
 - [ ] Mapear 10 comércios locais próximos (lojas de roupas, autopeças, pet shops, distribuidoras).

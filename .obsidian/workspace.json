@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultoria/00 - Visão Geral.md",
+                "file": "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Visão Geral"
+              "title": "06 - Checklist de Execução Solo & Pitch"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultoria/00 - Visão Geral.md",
+                "file": "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 00 - Visão Geral"
+              "title": "Sumário de 06 - Checklist de Execução Solo & Pitch"
             }
           }
         ],
@@ -201,15 +201,15 @@
   },
   "active": "56a986db759bda55",
   "lastOpenFiles": [
-    "AWS e DevOps/AWS.md",
-    "Consultoria/00 - Visão Geral.md",
-    "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
-    "Consultoria/Primeiros Passos Práticos.md",
     "Consultoria/05 - Sistema Coringa (MVP).md",
     "Consultoria/04 - Modelo de Negócio & Precificação.md",
     "Consultoria/03 - Formalização & Jurídico.md",
     "Consultoria/02 - Posicionamento & Branding.md",
     "Consultoria/01 - Divisão de Papéis.md",
+    "Consultoria/00 - Visão Geral.md",
+    "AWS e DevOps/AWS.md",
+    "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
+    "Consultoria/Primeiros Passos Práticos.md",
     "Consultoria",
     "copilot/copilot-conversations/Formatação_e_Estilização_de_Documento@20260618_150222.md",
     "AWS e DevOps",
