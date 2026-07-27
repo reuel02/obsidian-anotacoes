@@ -1,14 +1,33 @@
-# 💰 3. Modelo de Negócio & Precificação
+---
+tags:
+  - modelo-de-negocio
+  - precificacao
+  - faturamento
+  - saas
+data: 2026-07-27
+status: em-andamento
+---
+# 💰 3. Modelo de Negócio, Precificação e Projeção Financeira
 
-### 📊 Estrutura de Cobrança
-1. **Taxa de Setup / Implantação (Única):** R$ 300,00 a R$ 500,00
-   * Cadastro de produtos, parametrização de cores e treinamento do lojista.
-2. **Mensalidade Recorrente (SaaS/Manutenção):** R$ 70,00 a R$ 120,00 / mês
-   * Hospedagem, suporte técnico e atualizações contínuas.
+### 🏷️ Tabela de Preços
+* **Plano Essencial:** R$ 350,00 (Setup) + R$ 89,00/mês
+* **Plano Pro:** R$ 600,00 (Setup) + R$ 149,00/mês
+* **Ticket Médio Considerado:** R$ 400,00 (Setup) | R$ 99,00/mês (Mensalidade)
 
-### 📈 Margem Operacional
-* **Custo de Infraestrutura:** Quase R$ 0,00 (Deploy estático Vercel/Netlify).
-* **Margem do Negócio:** ~90% de lucro líquido.
+---
 
-### 🎯 Projeção Inicial (Meta 6 Meses)
-* **15 Clientes Ativos:** R$ 1.350,00/mês recorrentes + R$ 6.000,00 em caixa inicial de setups.
+### 📉 Custos Fixos Operacionais
+* Hospedagem/SaaS: R$ 0,00 (Free Tier Vercel/Supabase)
+* Imposto MEI (DAS): ~R$ 75,00/mês
+* Domínio: ~R$ 3,33/mês
+* **Margem Líquida Estimada:** > 90%
+
+---
+
+### 📈 Projeção Ano 1 (Cenário Conservador — 2 a 4 novos clientes/mês)
+
+* **Mês 3 (6 Clientes):** Faturamento Mês R$ 1.394,00 | Recorrência: R$ 594,00/mês
+* **Mês 6 (15 Clientes):** Faturamento Mês R$ 2.685,00 | Recorrência: R$ 1.485,00/mês
+* **Mês 12 (37 Clientes):** Faturamento Mês R$ 5.263,00 | Recorrência: **R$ 3.663,00/mês**
+
+> **Total Acumulado Ano 1:** ~R$ 35.600,00 faturados com margem de 90%.

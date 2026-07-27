@@ -1,14 +1,24 @@
-# 🎨 1. Marca & Posicionamento
+---
+tags:
+  - consultoria
+  - branding
+  - marca
+data: 2026-07-27
+status: em-andamento
+---
+# 🎨 1. Apresentação da Marca & Branding
 
-### 🏷️ O Nome: KARIS TECH
-* **Origem:** Do grego *Charis* (Graça, Favor, Virtude).
-* **Conceito:** Servir o cliente com excelência, transparência ética e entrega acima do mercado.
-* **Estilo:** Minimalista, corporativo e sóbrio (B2B).
+> **Objetivo:** Transmitir visão, propósito e mostrar que já temos uma empresa com identidade forte, não apenas uma ideia.
 
-### 🎨 Identidade Visual
-* **Deep Navy (`#0F172A`):** Solidez, confiança e segurança B2B.
-* **Corporate Blue (`#2563EB`):** Tecnologia, inovação e modernidade.
-* **Pure White (`#FFFFFF`):** Leitura clean e elegância.
+---
 
-### 💬 Slogan Sugerido
-> *"Inovação e eficiência para o comércio local."*
+### 👁️ O que Mostrar
+* [ ] **Perfil do LinkedIn e Instagram**.
+* [ ] **Arquivo de Branding** oficial da marca.
+
+---
+
+### 📌 Conceito & Identidade Visual
+* **Significado do Nome:** *Karis* (do grego *Charis* — Graça, Favor e Virtude).
+* **Posicionamento:** Servir com transparência ética, excelência e entrega acima do contratado.
+* **Estilo Visual:** Minimalista, corporativo e sóbrio (focado no B2B).
