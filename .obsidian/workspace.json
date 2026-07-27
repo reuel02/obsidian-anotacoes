@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74381dae9d7a641f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
             "id": "56a986db759bda55",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "06 - Checklist de Execução Solo & Pitch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +194,10 @@
     "Consultoria/04 - Modelo de Negócio & Precificação.md",
     "Consultoria/03 - Formalização & Jurídico.md",
     "Consultoria/02 - Posicionamento & Branding.md",
-    "Consultoria/01 - Divisão de Papéis.md",
     "Consultoria/00 - Visão Geral.md",
-    "AWS e DevOps/AWS.md",
     "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
+    "Consultoria/01 - Divisão de Papéis.md",
+    "AWS e DevOps/AWS.md",
     "Consultoria/Primeiros Passos Práticos.md",
     "Consultoria",
     "copilot/copilot-conversations/Formatação_e_Estilização_de_Documento@20260618_150222.md",
