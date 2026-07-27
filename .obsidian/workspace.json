@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karis Tech - CTO/Ferramentas e Custos de Desenvolvimento.md",
+                "file": "Karis Tech/06 - Presenca Digital e Mídias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferramentas e Custos de Desenvolvimento"
+              "title": "06 - Presenca Digital e Mídias"
             }
           }
         ],
@@ -224,8 +224,10 @@
   },
   "active": "3c3f633a90c843c5",
   "lastOpenFiles": [
-    "Karis Tech - CTO/Processo de Entrega e Discovery.md",
+    "Karis Tech/04b - Concorrência e Captação na Rede.md",
+    "Karis Tech/03 - Modelo de Negocio e Faturamento.md",
     "Karis Tech - CTO/Ferramentas e Custos de Desenvolvimento.md",
+    "Karis Tech - CTO/Processo de Entrega e Discovery.md",
     "Karis Tech - CTO/IA & Desenvolvimento Ágil.md",
     "Karis Tech - CTO/Plano de Contingência para Estouro de Cotas de IA.md",
     "Karis Tech/00 - Visão Geral.md",
@@ -234,9 +236,7 @@
     "Karis Tech/06 - Presenca Digital e Mídias.md",
     "Karis Tech/02 - Produto e Demo (ZapCart).md",
     "Karis Tech/04 - Estratégia de Captação (Santos).md",
-    "Karis Tech/04b - Concorrência e Captação na Rede.md",
     "Karis Tech/04c - Captacao Outbound Fria.md",
-    "Karis Tech/03 - Modelo de Negocio e Faturamento.md",
     "Karis Tech/05 - Governança e Sociedade.md",
     "Karis Tech/07 - Estrutura Jurídica e Operacional.md",
     "Karis Tech/s.md",

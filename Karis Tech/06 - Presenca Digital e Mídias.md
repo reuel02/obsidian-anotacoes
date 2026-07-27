@@ -14,10 +14,11 @@ status: em-andamento
 
 Para não perder tempo gerenciando redes que não geram negócios, a Karis Tech focará o esforço em apenas **duas redes estratégicas**, cada uma com um papel bem definido:
 
-|**Rede Social**|**Formato Principal**|**Função Estratégica para a Karis Tech**|
-|---|---|---|
-|**Instagram (`@karis.tech`)**|Reels curtos, Carrosséis informativos e Stories de bastidores.|**Atração & Conversão Local:** Conectar com donos de lojas de Santos, mostrar o produto em ação e gerar conversas no Direct.|
-|**LinkedIn (`Karis Tech`)**|Posts em texto/imagem corporativa e artigos curtos.|**Autoridade B2B & Parcerias:** Demonstrar maturidade técnica, atrair grandes fornecedores localmente e profissionalizar o perfil dos fundadores.|
+| **Rede Social**               | **Formato Principal**                                          | **Função Estratégica para a Karis Tech**                                                                                                          |
+| ----------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Instagram (`@karis.tech`)** | Reels curtos, Carrosséis informativos e Stories de bastidores. | **Atração & Conversão Local:** Conectar com donos de lojas de Santos, mostrar o produto em ação e gerar conversas no Direct.                      |
+| **LinkedIn (`Karis Tech`)**   | Posts em texto/imagem corporativa e artigos curtos.            | **Autoridade B2B & Parcerias:** Demonstrar maturidade técnica, atrair grandes fornecedores localmente e profissionalizar o perfil dos fundadores. |
+| WhatsApp Business             | Contato profissional com clientes B2B                          | Contato profissional com clientes B2B                                                                                                             |
 
 > 🚫 **O que NÃO faremos:** Não gastaremos energia com TikTok, X (Twitter) ou YouTube no início. O foco é 100% onde o dono do comércio de Santos está no dia a dia.
 
