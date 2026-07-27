@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "56a986db759bda55",
+            "id": "735ca27e17dab85b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
+                "file": "Consultoria/00 - Visão Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Checklist de Execução Solo & Pitch"
+              "title": "00 - Visão Geral"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.5
   },
   "right": {
     "id": "eb4cdae725789407",
@@ -165,21 +165,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 06 - Checklist de Execução Solo & Pitch"
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "e118e5f3ae7e7b4c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "8be1e07f71e06dd4",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,17 +218,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "56a986db759bda55",
+  "active": "735ca27e17dab85b",
   "lastOpenFiles": [
-    "Consultoria/05 - Sistema Coringa (MVP).md",
-    "Consultoria/04 - Modelo de Negócio & Precificação.md",
+    "Consultoria/01 - Divisão de Papéis.md",
     "Consultoria/03 - Formalização & Jurídico.md",
     "Consultoria/02 - Posicionamento & Branding.md",
-    "Consultoria/01 - Divisão de Papéis.md",
+    "Consultoria/04 - Modelo de Negócio & Precificação.md",
+    "Consultoria/05 - Sistema Coringa (MVP).md",
+    "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
     "Consultoria/00 - Visão Geral.md",
     "AWS e DevOps/AWS.md",
-    "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
-    "Consultoria/Primeiros Passos Práticos.md",
     "Consultoria",
     "copilot/copilot-conversations/Formatação_e_Estilização_de_Documento@20260618_150222.md",
     "AWS e DevOps",
@@ -233,6 +251,7 @@
     "Linux/Variáveis de Ambiente.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "Linux/Usuários e Grupos.md",
+    "Linux/Resumo.md",
     "Linux",
     "Nova pasta",
     "copilot/copilot-conversations",
