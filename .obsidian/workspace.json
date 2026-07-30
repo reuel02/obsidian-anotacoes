@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
+                "file": "Karis Tech - CTO/IA & Desenvolvimento Ágil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Checklist de Execução Solo & Pitch"
+              "title": "IA & Desenvolvimento Ágil"
+            }
+          },
+          {
+            "id": "d8373e7dc7f04ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karis Tech - CTO/Desenvolvimento/Esteira de Produtos Demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esteira de Produtos Demo"
+            }
+          },
+          {
+            "id": "e7667097123099c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karis Tech - CTO/Desenvolvimento/Esteira de Produtos Demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esteira de Produtos Demo"
+            }
+          },
+          {
+            "id": "740d5969e893910c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "307471a689f48d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karis Tech - CTO/Estratégias para prospectar clientes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estratégias para prospectar clientes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
+                "file": "Karis Tech - CTO/Estratégias para prospectar clientes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 06 - Checklist de Execução Solo & Pitch"
+              "title": "Sumário de Estratégias para prospectar clientes"
             }
           }
         ],
@@ -188,44 +245,44 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "56a986db759bda55",
+  "active": "5774b0efee692dc3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Karis Tech - CTO/Estratégias para prospectar clientes.md",
+    "Karis Tech - CTO/Desenvolvimento/Esteira de Produtos Demo.md",
+    "Karis Tech - CTO/IA & Desenvolvimento Ágil.md",
+    "Karis Tech - CTO/Desenvolvimento",
+    "Karis Tech - CTO/Ferramentas e Custos de Desenvolvimento.md",
+    "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
+    "Karis Tech/07 - Estrutura Jurídica e Operacional.md",
+    "Karis Tech/05 - Governança e Sociedade.md",
+    "Karis Tech/06 - Presenca Digital e Mídias.md",
+    "Karis Tech/04c - Captacao Outbound Fria.md",
+    "Karis Tech/04b - Concorrência e Captação na Rede.md",
+    "Karis Tech/04 - Estratégia de Captação (Santos).md",
+    "Karis Tech/03 - Modelo de Negocio e Faturamento.md",
+    "Karis Tech/02 - Produto e Demo (ZapCart).md",
+    "Karis Tech/00 - Visão Geral.md",
+    "Karis Tech/01 - Marca e Branding.md",
+    "Karis Tech",
+    "Karis Tech - CTO/Processo de Entrega e Discovery.md",
+    "Karis Tech - CTO/Plano de Contingência para Estouro de Cotas de IA.md",
+    "Karis Tech - CTO",
     "Consultoria/05 - Sistema Coringa (MVP).md",
     "Consultoria/04 - Modelo de Negócio & Precificação.md",
     "Consultoria/03 - Formalização & Jurídico.md",
     "Consultoria/02 - Posicionamento & Branding.md",
     "Consultoria/00 - Visão Geral.md",
-    "Consultoria/06 - Checklist de Execução Solo & Pitch.md",
     "Consultoria/01 - Divisão de Papéis.md",
     "AWS e DevOps/AWS.md",
     "Consultoria/Primeiros Passos Práticos.md",
     "Consultoria",
-    "copilot/copilot-conversations/Formatação_e_Estilização_de_Documento@20260618_150222.md",
     "AWS e DevOps",
-    "conflict-files-obsidian-git.md",
-    "Linux/Básico de Redes.md",
-    "Linux/DNS.md",
-    "Linux/Processos.md",
-    "Linux/Resolução de Problemas de Rede.md",
-    "TypeScript/Arquiteturas - MVC x DDD.md",
-    "TypeScript/Padrão Repository (Repository Pattern).md",
-    "Projetos/CoreNode/Arquitetura e Primeiros Passos.md",
-    "TypeScript/Prisma/Configuração Inicial Prisma.md",
     "TypeScript/Prisma",
     "TypeScript",
-    "Projetos/Boas Práticas/Workflow com branchs para cada tarefa.md",
-    "Docker/Estrutura do Docker Compose.md",
-    "copilot/copilot-conversations/Formatação_de_nota@20260518_153957.md",
     "Docker",
-    "Projetos/Boas Práticas/Integração do Linear com Github.md",
     "Projetos/Boas Práticas",
-    "Linux/Variáveis de Ambiente.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "Linux/Usuários e Grupos.md",
     "Linux",
-    "Nova pasta",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
     "Conhecimentos Gerais/Pasted image 20260517170241.png"
   ]
 }
