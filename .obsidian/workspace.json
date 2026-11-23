@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Server-side components"
             }
+          },
+          {
+            "id": "5faa5c7e1a052f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/PowerPlatform/AB-400/Solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solutions"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudos/PowerPlatform/AB-400/Server-side components.md",
+                "file": "Estudos/PowerPlatform/AB-400/Solutions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,10 +247,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d114639435e0e58b",
+  "active": "5774b0efee692dc3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20261123191745.png",
     "Estudos/PowerPlatform/AB-400/Server-side components.md",
+    "Estudos/PowerPlatform/AB-400/Solutions.md",
+    "conflict-files-obsidian-git.md",
     "Estudos/PowerPlatform/AB-400/Client-side components.md",
     "Pasted image 20261122162623.png",
     "Pasted image 20261122162459.png",
@@ -277,7 +293,6 @@
     "Pasted image 20260913160809.png",
     "Anotações Diversas/Fé/EBD/O Espírito Santo que regenera e santifica.md",
     "Karis/Karis Tech - CTO/Estratégias para prospectar clientes.md",
-    "Karis/Karis Tech - CTO/Desenvolvimento/Esteira de Produtos Demo.md",
-    "Karis/Karis Tech - CTO/IA & Desenvolvimento Ágil.md"
+    "Karis/Karis Tech - CTO/Desenvolvimento/Esteira de Produtos Demo.md"
   ]
 }
