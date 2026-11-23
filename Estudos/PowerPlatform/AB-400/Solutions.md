@@ -1,1 +1,3 @@
 ![[Pasted image 20261123191745.png]]
+
+In Power Platform exists two types of solutions, managed and unmanaged; Managed solutions can't be changed and only allow read and execute the components inside them. Otherwise unmanaged solutions allow edit the inside components. The best practice and recomendation is use unmanaged solutions in DEV environment to develop the componentes that you need and after do the deploy process to export the solution to the next environment, generally a TEST envinroment or directly to a production enviroment, in this two cases you 
